@@ -48,7 +48,7 @@ public class Principal extends JFrame {
 		JButton btnCarregar = new JButton("Carregar");
 		btnCarregar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				
+				//marcio
 				TableModel modelo = new TableModel();
 				table.setModel(modelo);
 			}
