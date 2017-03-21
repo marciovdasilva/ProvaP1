@@ -25,7 +25,7 @@ public class Points extends JPanel {
       g2.drawLine(0, 0, x -10, h);
       g2.drawLine(x + 10, h, w , 0);
       g2.drawLine(w, y, 0, h);
-      
+      //g2.drawLine(w, y, 0, h);
   	}
 
 public static void main(String[] args) {
